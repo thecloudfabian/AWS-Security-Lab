@@ -15,3 +15,9 @@ Phase 3: Visibilty and Detection
 - GuardDuty enabled
 - VPC Flow Logs enabled
 
+Phase 4: Automated Incident Response
+- SNS alerting created
+- Lambda remediation created
+- EventBridge trigger created
+- Auto-stop response validated
+
