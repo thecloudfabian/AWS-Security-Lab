@@ -21,3 +21,9 @@ Phase 4: Automated Incident Response
 - EventBridge trigger created
 - Auto-stop response validated
 
+Phase 5: Controlled Attack Simulation + Validation
+- Full detection simulation executed
+- GuardDuty triggered event
+- EventBridge routed event
+- Lambda executed remediation
+- EC2 successfully contained
