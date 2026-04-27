@@ -20,6 +20,11 @@ This project demonstrates how to build an automated cloud security monitoring an
 VPC → Public / Private Subnets → EC2 → CloudTrail / Flow Logs / GuardDuty → EventBridge → Lambda → SNS
 
 
+## Architect Diagram
+
+![AWS Security Lab Architecture] (screenshots/architecture.png)
+
+
 
 ## AWS Services Used
 
