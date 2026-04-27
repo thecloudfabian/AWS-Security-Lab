@@ -22,7 +22,7 @@ VPC → Public / Private Subnets → EC2 → CloudTrail / Flow Logs / GuardDuty 
 
 ## Architect Diagram
 
-![AWS Security Lab Architecture] (screenshots/architecture.png)
+![AWS Security Lab Architecture](screenshots/aws-security-detection-response-lab.png)
 
 
 
